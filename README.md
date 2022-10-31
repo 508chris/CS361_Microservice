@@ -32,3 +32,9 @@ JSON Format example:
 ![image](https://user-images.githubusercontent.com/91137143/199123696-1fa4705d-4d4a-4c24-a6e7-0a22ecadeb20.png)
 
 
+UML Diagram:
+
+![image](https://user-images.githubusercontent.com/91137143/199123805-013be388-0ab1-4c9a-bc2d-0cc90e15dfb9.png)
+
+
+
